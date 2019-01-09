@@ -20,7 +20,7 @@
 					<ul class="social">
 						<li><a rel="nofollow" href="#" class="fa fa-facebook offsite"><span>Facebook</span></a></li>
 						<li><a rel="nofollow" href="#" class="fa fa-twitter offsite"><span>Twitter</span></a></li>
-						<li><a rel="nofollow" #" class="fa fa-rss"><span>RSS</span></a></li>
+						<li><a rel="nofollow" href="#" class="fa fa-rss"><span>RSS</span></a></li>
 					</ul>
 
 					<div class="copyright">
