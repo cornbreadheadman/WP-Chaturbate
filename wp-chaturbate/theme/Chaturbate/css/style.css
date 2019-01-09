@@ -1377,7 +1377,7 @@
 		padding: 0 10px 0 10px;
 	}
 	
-	.current-menu-item {
+	.meta-menu.current-menu-item {
 		display: none;
 	}
 
