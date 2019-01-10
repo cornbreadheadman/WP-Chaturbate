@@ -27,7 +27,7 @@
 						<p>&copy; Copyright <?php echo bloginfo('name'); ?>. All rights reserved. Theme by <a class="offsite" href="http://camaddict.net">Cam Addicts</a></p>
 					</div>
 					
-					<?php wp_nav_menu( array( 'theme_location' => 'meta-menu' ) ); ?>
+					<?php wp_nav_menu( array( 'theme_location' => 'meta-menu', 'menu_class' => 'meta-menu' ) ); ?>
 					
 			
 				
